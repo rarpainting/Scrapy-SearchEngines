@@ -1,6 +1,6 @@
 # __author__ = 'tixie'
 
-from searchEngines import SearchEngines
+from .searchEngines import SearchEngines
 
 
 class searResultPages:
